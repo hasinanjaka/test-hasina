@@ -1,0 +1,33 @@
+body {
+    background: #f5f5f5;
+}   
+ .circulo {
+     display: flex;
+      align-items: center;
+      width: 320px;
+      height: 320px;
+      background: #3eaab2;
+      margin: 150px auto;
+      clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);  
+    }
+    .circulo-b{
+    
+      width: 50px;
+      height: 50px;
+      background: #393e45;
+      border-radius: 50%; text-align: center;margin:0 auto ; line-height: 1.5rem;}
+
+.container{ width: 100%;background:#21272f;height: 425px;padding-top: 100px;}
+.row{width: 100%;display: flex;background: #3eaab2;margin:0 auto;justify-content:center;height: 240px;margin-top: 30px;}
+
+.main-container{
+   margin-top:-130px;
+  display: flex;
+  width: 500px;
+  align-items: center;
+  height: 500px;
+  background: #21272f;
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);}
+
+  /*Exercie 6 andramana alefa git amzay*/
+  
