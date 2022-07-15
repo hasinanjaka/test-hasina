@@ -1,5 +1,7 @@
-.container{display: block; width: 100%;background:#64374d;}
+.container{display: block; width: 100%;}
 .row{width: 60%;display: flex;margin: 0 auto;background: rosybrown;}
-.col{ border-radius: 12px;
-    border: 6px solid crimson;display:flex;justify-content:center;width: 100px;height:100px; background:#ffc584;gap:30px;margin:30px}
+.col{ 
+    display:flex;justify-content:center;width: 50px;height:40px; background:#ffc584;gap:30px;margin:30px}
 
+.col-centre{
+    display:flex;justify-content:center;width: 600px;height:40px; background:rosybrown;gap:30px;margin:30px}
